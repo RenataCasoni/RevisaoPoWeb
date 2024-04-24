@@ -1,0 +1,25 @@
+HTML
+<!--npm install -g http-server
+npm install -g live-server
+live-server --port=8080
+imagem-  Dentro dos elementos <article>, inclua a tag <img> com o atributo src apontando para o caminho da imagem.
+acessibilidade atributos aria aria-label="Beyoncé - Foto da cantora Beyoncé"
+css- <link rel="stylesheet" href="styles.css">
+
+-->
+
+
+
+CSS
+/*
+display: flex; e flex-wrap: wrap; são usados para criar um layout flexível onde os cards são distribuídos em várias linhas conforme necessário.
+justify-content: center; alinha os cards no centro horizontalmente dentro do contêiner flexível.
+width: 200px; define uma largura fixa para os cards. Você pode ajustar esse valor conforme necessário para corresponder ao tamanho desejado para os cards.
+height: auto; mantém a proporção da imagem, garantindo que ela não seja distorcida.
+margin: 10px; adiciona uma margem ao redor dos cards para criar espaço entre eles.
+border-radius: 8px; adiciona bordas arredondadas aos cards para uma aparência mais suave.
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); adiciona uma leve sombra aos cards para dar a impressão de que estão flutuando.
+margin: 10px; adiciona uma margem de 10 pixels ao redor de cada imagem para criar espaço entre elas.*/
+
+
+JS 
